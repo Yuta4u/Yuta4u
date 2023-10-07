@@ -6,7 +6,7 @@
 - 📫 How to reach me **yudhistira4u@gmail.com**
 
 Here my portofolio : <br>
-<a href="https://feedback-app-eight-beta.vercel.app/">feedback-app<a/><br>
+<a href="https://feedback-app-eight-beta.vercel.app/">Feedback-app<a/><br>
 <a href="https://pokedex-yuta4u.netlify.app/">Pokedex<a/><br>
 
 
