@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yudhistira Tama</h1>
-<h3 align="center">Junior Fullstack Developer</h3>
+<h3 align="center">Junior Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Nextjs and golang**
 
