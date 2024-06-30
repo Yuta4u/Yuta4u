@@ -8,6 +8,7 @@
 Here my portofolio : <br>
 <a href="https://myamc.netlify.app">AMC<a/><br>
 <a href="https://pokedex-yuta4u.netlify.app/">Pokedex<a/><br>
+<a href="https://asm-inventory.netlify.app/">Web Inventory<a/><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
