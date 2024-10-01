@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yudhistira Tama</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **NextJS** and **NestJS**
 
 - 📫 How to reach me **yudhistira4u@gmail.com**
 
