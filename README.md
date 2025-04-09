@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yudhistira Tama</h1>
 <h3 align="center">Junior Fullstack Web Developer</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Nest JS**
 
 - 📫 How to reach me **yudhistira4u@gmail.com**
 
